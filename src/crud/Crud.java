@@ -13,6 +13,7 @@ public class Crud {
 
     	System.out.println("Nome: Samuel vieira de souza, RA: 0024329");
     	
+    	
         String url = "jdbc:mysql://root:fGgjICYJPtyTPFvhaheyBfEeZWpMtPWO@trolley.proxy.rlwy.net:27872/railway";
         String usuariobanco = "mysql.railway.internal";
         String bancosenha = "fGgjICYJPtyTPFvhaheyBfEeZWpMtPWO";
